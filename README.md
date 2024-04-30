@@ -208,11 +208,3 @@ a precise search through multiple keywords.
   </kbd>
 
   
-
-
-## 📝 License
-
-Copyright © 2022 [@Quentin Couissinier](https://github.com/heliosCreation).<br />
-This project is [MIT](https://github.com/heliosCreation/BugsTracker/blob/main/LICENSE) licensed.
-
----
