@@ -42,7 +42,7 @@
 Clone the repo locally by doing -
 
 ```sh
-git clone https://github.com/heliosCreation/BugsTracker.git
+git clone https://github.com/Priyesh031/Bug-Tracker.git
 ```
 
 ### Step 2: Set the data store
