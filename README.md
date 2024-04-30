@@ -1,14 +1,11 @@
 <br />
-  <h1 align="center">Helios Bugs Tracker</h1>
+  <h1 align="center">Bugs Tracker</h1>
   <h3 align="center">Track, Manage and resolve features and bugs</h3>
 
 
-  <p align="center">
-    <a href="https://heliosbugtracker.azurewebsites.net/Tracker">View Demo</a>
-  </p>
-</p>
+  
 
-<p align="center">Universal bug tracker for everyone! Helios bug tracker allows team members to collaborate, discuss and manage projects effectively.</p>
+<p align="center">Universal bug tracker for everyone! Bug tracker allows team members to collaborate, discuss and manage projects effectively.</p>
 
 ## ✨ Features
 
@@ -21,13 +18,6 @@
 - Role based organisation
 - Change tracker 
 - Mail service
-
-## Tech Stack
-
-| Stack    | -                                                                                                                                                                                 | -                                                                                                                                                                           | -                                                                                                | -                                                                                                                | -                                                                                                   |
-| -------- | --------------------------------------------------------------------------------------------------                                                                                | -------------------------------------------------------------------------------------------------                                                                           | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| FrontEnd | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163143966-609eafd8-f9f0-4fab-a7a0-9d8b5b8bfdde.png" width="100" height="100"> <br />Bootstrap</p>  | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163144526-78d0ee34-90bc-4ece-8f68-74c6cbf973f8.jpg" width="100" height="100"> <br />Css</p>  | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163145017-3f047134-9497-4e0f-a964-c71eb9796b5d.png" width="100" height="100"> <br />Jquery</p>   | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163145256-54dc954e-ad9b-48dd-9b8b-6b2d811faefb.jpg" width="100" height="100"> <br />Chart.js</p>              | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163145555-e17e94c9-8ea1-4a7c-87ca-7fbc31511bb9.png" width="100" height="100"> <br />Font awesome</p>
-| BackEnd  | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163146965-611202e6-6d9f-4267-8a98-3a379083fdba.png" width="100" height="100"> <br />.NET 5</p>     | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163147294-3e442920-0a02-42c0-a1c0-f2f54c70d774.jpg" width="100" height="100"> <br />SQL SERVER</p> | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163147498-de4bbe22-a143-4cdb-804b-89c1f302762c.png" width="100" height="100"> <br />EF CORE</p> | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163147911-4579e0eb-e89c-46b1-91b1-432c416e0966.png" width="100" height="100"> <br />MEDIATR</p>               | <p align="center"><img src="https://user-images.githubusercontent.com/71494857/163148141-bb42ce9a-9c17-4e7c-910d-2fd8148fca5d.png" width="100" height="100"> <br />Azure</p> |
 
 
 ## :rocket: Quick start
@@ -216,19 +206,8 @@ a precise search through multiple keywords.
   <kbd>
 <img width="945" alt="Change" src="https://user-images.githubusercontent.com/71494857/163547565-e02f914b-2ebb-4d41-b3c9-b77dc88d08a9.PNG">
   </kbd>
+
   
-  ##### And that wraps it up ! 
-  
-  ## Author
-
-👤 **Quentin Couissinier**
-
-- Linkedin: [@Quentin Couissinier](https://www.linkedin.com/in/quentin-couissinier/)
-- Github: [@Quentin Couissinier](https://github.com/heliosCreation)
-
-## Show your support
-
-Please ⭐️ this repository if you liked the project!
 
 
 ## 📝 License
